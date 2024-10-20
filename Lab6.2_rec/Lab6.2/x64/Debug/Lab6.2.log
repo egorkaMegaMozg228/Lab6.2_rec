@@ -1,0 +1,4 @@
+﻿  Lab6.2.cpp
+C:\Users\zemts\source\repos\Lab6.2_rec\Lab6.2.cpp(35,1): warning C4715: Sum: значение возвращается не при всех путях выполнения
+C:\Users\zemts\source\repos\Lab6.2_rec\Lab6.2.cpp(44,1): warning C4715: Count: значение возвращается не при всех путях выполнения
+  Lab6.2.vcxproj -> C:\Users\zemts\source\repos\Lab6.2_rec\x64\Debug\Lab6.2.exe
